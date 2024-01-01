@@ -1,0 +1,11 @@
+h1 {
+  top: 5px;
+}
+
+.board button {
+  height: 80px;
+  width: 80px;
+  border-radius: 60%;
+  background-color: rgb(128, 128, 128);
+  border: 1px solid black;
+}
